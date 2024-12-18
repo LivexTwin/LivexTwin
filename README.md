@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LivexTwin
 - 👀 I’m interested in helping with Ecommerce 
-- 🌱 I’m currently learning shopify/storefont api
+- 🌱 I’m currently learning how to optimize my site performance 
 - 💞️ I’m looking to collaborate on Ecommerce projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
