@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [a-is-lt.com](a-is-lt.com)
 
-- 📫 How to reach me **anthony@a-is-lt.com**
+- 📫 How to reach me **hello@a-is-lt.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
