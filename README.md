@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anthony aka Live★Twin</h1>
-<h3 align="center">A passionate Creative Developer based in Atlanta, GA.</h3>
+<h3 align="center">I want to bridge fashion ad technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=livextwin&label=Profile%20views&color=0e75b6&style=flat" alt="livextwin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=livextwin" alt="livextwin" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Astro.js, speed & optimazation, Cypress, GitHub Actions, etc.**
+- 🌱 I’m currently learning **Astro.js, speed & optimization, Cypress, GitHub Actions, etc.**
 
 - 👨‍💻 All of my projects are available at [a-is-lt.com](a-is-lt.com)
 
